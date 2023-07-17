@@ -1,0 +1,12 @@
+Package: com.redenticdev.ytcopy
+Name: YTCopy
+Version: 1.1.0
+Architecture: iphoneos-arm
+Description: Copy and share video info on YouTube
+Icon: https://redentic.dev/depictions/com.redenticdev.ytcopy/icon.png
+Depiction: https://redentic.dev/depictions/?p=com.redenticdev.ytcopy
+SileoDepiction: https://redentic.dev/depictions/com.redenticdev.ytcopy/sileo.json
+Maintainer: RedenticDev <hello@redentic.dev>
+Author: RedenticDev <hello@redentic.dev>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
